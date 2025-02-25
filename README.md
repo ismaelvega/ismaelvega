@@ -2,17 +2,12 @@
 
   ---
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/ismaelitovega?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ismaelitovega)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub followers](https://img.shields.io/github/followers/ismaelvega?style=social)](https://github.com/ismaelvega)
+  You can find me on X [@ismaelitovega](https://x.com/ismaelitovega?t=kjctKXr0DOtYCSX_0Z9Glg&s=09)
   <br>
   <br>
-  I'm a tech passionate looking for my first professional experience as a frontend developer. I'm autodidact. I strongly believe in lifelong learning, I'm a lover of technology innovation and trying new tools. I can build web applications from creating wireframes in Figma, develop web design, connect it to an API and finally deploy it in production
+Web developer pivoting to Data Science and Machine Learning.
 
   ---
-
-  <div align="center"><h2>My current stack</h2></div>
-  <div align="center"><h3>M E R N</h3></div>
-  <div align="center"><h4>MongoDB | ExpressJs | ReactJs | NodeJs</h4></div>
-  <div align="center"><a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="80" height="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://expressjs.com/"><img src="https://github.com/ismaelvega/get-width/blob/master/express-light-mode.svg" alt="ExpressJs" width="80" height="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJs" width="80" height="80" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJs" alt="NodeJs" width="80" height="80" /></a>
   </div>
   <br>
   <br>
@@ -26,29 +21,6 @@
   ---
 
   🌱 I'm currently learning
+
+ - A lot of things. Updating this soon.
   
-  <a href="http://www.passportjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/passport.svg" title="PassportJs" alt="PassportJs" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextjs.org/"><img src="https://github.com/ismaelvega/get-width/blob/master/nnextjs-logo-light-mode.svg" title="NextJs" alt="NextJs" width="50" height="50" /></a> 
-
-
-  ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelvega&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelvega&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-
-  <!--
-  **ismaelvega/ismaelvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
