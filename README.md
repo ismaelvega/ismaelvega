@@ -2,7 +2,7 @@
 
   ---
 
-  You can find me on X [@ismaelitovega](https://x.com/ismaelitovega?t=kjctKXr0DOtYCSX_0Z9Glg&s=09)
+  You can find me on X [@notismaelvega](https://x.com/notismaelvega)
   <br>
   <br>
 Web developer pivoting to Data Science and Machine Learning.
